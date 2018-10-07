@@ -46,3 +46,4 @@ if(placed(board,0)):
     print("")
 print("The Board after Queen Placement : ")    
 print(board) #printing new chess board
+#end of code
